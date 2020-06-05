@@ -1,0 +1,13 @@
+{
+  "name": "hubot-simple-meme",
+  "version": "1.0.0",
+  "description": "Hubot plugin for generating memes with imgflip",
+  "main": "index.js",
+  "author": "Guy Bianco IV <gjbiancoiv@gmail.com>",
+  "repository": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "~0.18.0",
+    "form-data": "^2.3.2"
+  }
+}
